@@ -177,6 +177,7 @@ h3 a:hover {
 .fa {
 	font-size: 24px !important;
 	color: #08aecb;
+	margin-top: 20px;
 }
 
 .contact-text {
@@ -184,10 +185,6 @@ h3 a:hover {
 	padding-left: 10px;
 	font-family: 'Lato', sans-serif;
 	color: #717272;
-}
-
-.fa-envelope-open{
-	margin-top: 0px;
 }
 
 #copyright {
