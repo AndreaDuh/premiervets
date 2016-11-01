@@ -1,0 +1,172 @@
+body {
+	padding-top: 70px;
+	font-family: 'Lato', sans-serif;
+}
+
+.nav {
+	font-weight: 700;
+	color: #00abc9;
+}
+
+.nav.navbar-nav.navbar-right li a {
+	color: #00abc9;
+}
+
+#header {
+	background: url('../img/pug.png') no-repeat;
+	background-size: cover;
+	height: 800px;
+}
+
+#searchbox {
+	height: 250px;
+	background-color: #08aecb;
+	opacity: 0.6;
+	margin-top: 25%;
+}
+
+#searchtitle {
+	font-weight: 900;
+	color: white;
+	opacity: 1.0;
+	margin-top: 30px;
+	margin-bottom: 25px;
+}
+
+.search {
+	background-color: #fa4848 !important;
+	border: none !important;
+	color: white !important;
+	border-radius: 0% !important;
+	opacity: 1.0;
+	width: 150px;
+	float: right;
+}
+
+.form-control {
+	border-radius: 0% !important;
+}
+
+#resources {
+	height: 400px;
+	background-color: #ecf0f1;
+}
+
+.form-group {
+	border-radius: none;
+}
+
+.title {
+	font-weight: 900;
+	text-align: center;
+	color: #08aecb;
+	border: 2px solid #08aecb;
+	width: 30%;
+	padding: 15px;
+	margin-top: 30px;
+}
+
+.box > .icon { 
+	text-align: center;
+	position: relative; 
+}
+
+.box > .icon > .image { 
+	position: relative; 
+	z-index: 2; 
+	margin: auto;
+	margin-top: 50px;  
+	line-height: 100px; 
+	vertical-align: center; 
+}
+
+.box > .icon > .info { 
+	margin-top: -24px; 
+	background: white; 
+	border: 1px solid #717272; 
+	padding: 15px 0 10px 0; 
+}
+
+.box .space { 
+	height: 50px; 
+}
+
+h3 a {
+	font-size: 16px;
+	font-weight: 700;
+	color: #717272;
+}
+
+h3 a:hover {
+	text-decoration: none;
+	color: #08aecb;
+}
+
+.dropdown {
+	margin-bottom: 50px;
+	margin-top: 50px;
+	width: 270px;
+}
+
+
+.caret {
+	color: #08aecb;
+}
+
+.thumbnail {
+    border: 0 none !important;
+    box-shadow: none !important;
+    background: none !important;
+}
+
+.article-box:hover {
+    opacity: 0.3;
+}
+
+.article-title {
+	color: #08aecb;
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.caption {
+	color: #717272;
+	font-size: 12px;
+	margin-bottom: 35px;
+}
+
+#contact {
+	background-color: #ecf0f1;
+}
+
+.form-horizontal {
+	margin-top: 30px;
+}
+
+.submit {
+	background-color: #fa4848 !important;
+	border: none !important;
+	color: white !important;
+	border-radius: 0% !important;
+}
+
+#contact-info {
+	float: right;
+}
+
+.fa {
+	font-size: 24px !important;
+	color: #08aecb;
+}
+
+.contact-text {
+	font-size: 14px;
+	padding-left: 10px;
+	font-family: 'Lato', sans-serif;
+	color: #717272;
+}
+
+.fa-envelope-open{
+	margin-top: 0px;
+}
+
